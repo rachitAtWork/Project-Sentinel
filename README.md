@@ -147,4 +147,4 @@ Once the model is trained, the system is ready for its day-to-day automated runs
 
 4.  **Activate the Fusion Scenario:**
     *   Update the two HTTP modules in your live Fusion scenario with the correct corresponding `ngrok` URLs.
-    *   Turn on the scenario and set its schedule. The Project Sentinel system is now fully operational.```
+    *   Turn on the scenario and set its schedule. The Project Sentinel system is now fully operational.
